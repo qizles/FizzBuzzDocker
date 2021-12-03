@@ -8,6 +8,7 @@ import unittest
 FIZZ_VALUE = 3
 BUZZ_VALUE = 5
 
+
 # Calculate FizzBuzz of single value
 def fizz_buzz_value_of(value):
     fizz_buzz_value = ""
